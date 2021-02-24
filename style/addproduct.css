@@ -1,0 +1,27 @@
+/*ADD PRODUCT PAGE*/
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid hotpink;
+}
+
+form {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+#addProd {
+    padding: 10px 12px;
+    background-color: rgb(235, 212, 212);
+    color: black;
+    border-radius: 30px;
+    outline: none;
+}

@@ -1,0 +1,25 @@
+section {
+    margin-top: 250px;
+    margin-bottom: 200px;
+}
+
+#removeAccount,
+#logOut {
+    display: inline-block;
+    background-color: pink;
+    color: white;
+    font-family: cursive;
+    border: none;
+    margin: 30px;
+    padding: 12px 22px;
+    border-radius: 40px;
+    outline: none;
+}
+
+.card {
+    width: 350px;
+    border-radius: 50px;
+    background: #eeeeee;
+    box-shadow: 20px 20px 60px #cacaca, -20px -20px 60px #ffffff;
+    border: none
+}
