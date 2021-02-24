@@ -1,2 +1,2 @@
 # First-Project
-This projects was created for presentation.
+This project was created for presentation. Includes HTML CSS files.
